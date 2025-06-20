@@ -6,9 +6,9 @@ import About from './components/About';
 import Testimonials from './components/Testimonials';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-import './index.css'; // or './globals.css'
+import './index.css'; 
 
-import './App.css'; // or './globals.css'
+import './App.css'; 
 
 import BackgroundElements from './components/Background';
 

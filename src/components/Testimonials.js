@@ -32,7 +32,7 @@ const Testimonials = ({ scrollY }) => {
   useEffect(() => {
     const interval = setInterval(() => {
       setCurrentTestimonial((prev) => (prev + 1) % testimonials.length);
-    }, 4000);
+    }, 2500);
     return () => clearInterval(interval);
   }, [testimonials.length]);
 
