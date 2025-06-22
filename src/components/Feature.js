@@ -27,7 +27,7 @@ const Features = ({ scrollY }) => {
   ];
 
   return (
-    <section id="features" className="py-20 relative">
+    <section id="feature" className="py-20 relative">
       <div className="max-w-7xl mx-auto px-6">
         <div className="text-center mb-16">
           <h2 className="text-4xl lg:text-6xl font-bold mb-6">
