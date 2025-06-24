@@ -15,7 +15,7 @@ const About = ({ scrollY }) => {
       <div className="max-w-7xl mx-auto px-6">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <FloatingCard scrollY={scrollY}>
-            <div className="relative">
+            <div className="relative">  
               <div className="absolute inset-0 bg-gradient-to-r from-purple-600/10 to-pink-600/10 rounded-3xl blur-2xl"></div>
               <img 
                 src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&h=400&fit=crop"

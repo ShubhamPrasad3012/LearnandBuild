@@ -24,7 +24,7 @@ const Footer = () => {
           
           <div className="flex flex-col items-center md:items-start">
             <div className="text-2xl font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent mb-4">
-              NexusLab
+              Learn and Build
             </div>
             <p className="text-gray-400 max-w-xs">
               Transforming businesses through innovative digital solutions.
@@ -49,7 +49,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-purple-500/20 mt-12 pt-8 text-center text-gray-400">
-          <p>&copy; 2025 NexusLab. All rights reserved.</p>
+          <p>&copy; 2025 Learn and Build. All rights reserved.</p>
         </div>
       </div>
     </footer>
